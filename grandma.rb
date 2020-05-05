@@ -14,8 +14,8 @@
 
 
 def speak_to_grandma(phrase)
-  # if the phrase is uppercase 
-  if 
+  # if the phrase is the same as the phrase when all caps
+  if phrase = phrase.upcase  
 
 end
 
