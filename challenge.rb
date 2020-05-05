@@ -6,6 +6,8 @@ def cab_cost(miles)
    if miles <= 5 
      "$10"
    else miles > 100
+     cost = miles + 5 
+     "$#{cost}"    "$" + cost 
      
 end
 
