@@ -10,8 +10,7 @@
 # NO, NOT SINCE 1938!
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
-# 'I LOVE YOU TOO PUMPKIN!'
-grandma_response = speak_to_grandma("hello")
+# 'I LOVE YOU TOO PUMPKIN!'grandma_response = speak_to_grandma("hello")
 
 def speak_to_grandma(phrase)
   # if the phrase is the same as the phrase when all caps
@@ -24,6 +23,9 @@ def speak_to_grandma(phrase)
   end
 
 end
+
+
+
 
 
 
