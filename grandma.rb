@@ -13,7 +13,10 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-def speak_to_grandma 
+def speak_to_grandma(phrase)
+  # if the phrase is uppercase 
+  if 
+
 end
 
 
