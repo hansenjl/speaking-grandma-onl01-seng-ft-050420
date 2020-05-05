@@ -7,13 +7,10 @@ def cab_cost(miles)
      "$10"
    else miles > 100
      
-     "$" + cost_over_5(miles)
+     "$#{miles+5}"
      
 end
 
-def cost_over_5(miles)
-  miles + 5 
-end
 
 
 
