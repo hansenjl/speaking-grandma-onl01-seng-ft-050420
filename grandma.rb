@@ -1,3 +1,4 @@
+require 'pry'
 # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
@@ -23,6 +24,8 @@ def speak_to_grandma(phrase)
   end
 
 end
+
+binding.pry
 
 
 
